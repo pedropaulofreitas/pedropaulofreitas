@@ -2,7 +2,6 @@
 
 #### I'm a Full Stack Developer working in Rio de Janeiro, Brazil.
 
-![Pedros's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedropaulofreitas&show_icons=true)
 
 ##### BIO
 - 🔭 I’m currently working on Zesto and  
