@@ -2,8 +2,6 @@
 
 #### I'm a Full Stack Developer working in Rio de Janeiro, Brazil.
 
-##### Now
-
 ##### BIO
 - 🔭 I’m currently working on Zesto and  
 - 🌱 I’m currently learning Scala(ZIO)
