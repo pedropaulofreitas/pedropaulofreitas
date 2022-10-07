@@ -5,7 +5,7 @@
 ##### Now
 
 ##### BIO
-- 🔭 I’m currently working on Zesto Tecnologia 
+- 🔭 I’m currently working on Zesto and  
 - 🌱 I’m currently learning Scala(ZIO)
 - 🤔 I use daily: `.js`, `.Angular`,`.React`, `.css`, `.ZIO`, `postgres`
 - 📫 How to reach me: pedro dot freitas at zesto.com.br
@@ -25,3 +25,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+And this will produce a flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
