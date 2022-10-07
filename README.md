@@ -7,7 +7,7 @@
 ##### BIO
 - 🔭 I’m currently working on Zesto and  
 - 🌱 I’m currently learning Scala(ZIO)
-- 🤔 I use daily: `.js`, `.Angular`,`.React`, `.css`, `.ZIO`, `postgres`
+- 🤔 I use daily: `.js`, `.Angular`, `.React`, `.css`, `.ZIO`, `postgres`
 - 📫 How to reach me: pedro dot freitas at zesto.com.br
 - ⚡ Fun fact: I'm currently learning how to sail
 
